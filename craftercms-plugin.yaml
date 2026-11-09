@@ -20,18 +20,18 @@ plugin:
     A simple Video Gallery site blueprint.
   website:
     name: Video Gallery
-    url: https://github.com/rivetlogic/craftercms-bp-videogallery.git
+    url: https://github.com/craftersoftware/craftercms-bp-videogallery
   media:
     screenshots:
       - title: Home Page
         description: Screenshot of the home page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-videogallery/master/static-assets/images/screenshots/bp_videogallery_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-videogallery/4/static-assets/images/screenshots/bp_videogallery_home.png"
       - title: Categories Page
         description: Screenshot of the categories page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-videogallery/master/static-assets/images/screenshots/bp_videogallery_categories.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-videogallery/4/static-assets/images/screenshots/bp_videogallery_categories.png"
       - title: Contact Page
         description: Screenshot of the contact page
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-videogallery/master/static-assets/images/screenshots/bp_videogallery_contact.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-videogallery/4/static-assets/images/screenshots/bp_videogallery_contact.png"
   developer:
     company:
       name: Rivet Logic
